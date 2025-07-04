@@ -1,0 +1,52 @@
+ [
+    {
+        "nome": "Implante",
+        "imagem": "https://www.implantomed.com.br/wp-content/uploads/2015/05/o-que-e-implante-dentario.jpg",
+        "descricao": "O implante dentário é uma estrutura de titânio inserida no osso para substituir a raiz de um dente perdido."
+    },
+    {
+        "nome": "Clareamento",
+        "imagem": "https://www.clinicadavilla.com.br/wp-content/uploads/2021/02/clareamento-dental-1.jpg",
+        "descricao": "Tratamento estético que visa clarear os dentes, removendo manchas e pigmentações."
+    },
+    {
+        "nome": "Ortodontia",
+        "imagem": "https://lh5.googleusercontent.com/sQW9aYhFVpQorRsbHaHEFZmFO1No9NJyVU1e7mmY0mCKXIeOR8Q91d8UVslDh2WRjY5uHyAEEK1hAuV9k27UGTNdYF-YS9XO1zy8iBeIi3upDbL1KHzhJ2H-TUvco1fwfcUaup4M3vf6VZ6JXHa7u7c",
+        "descricao": "Especialidade que corrige o alinhamento dos dentes e dos ossos maxilares."
+    },
+    {
+        "nome": "Limpeza",
+        "imagem": "https://www.helionajas.com.br/images/tratamentos/limpeza2.jpg",
+        "descricao": "Procedimento que remove o tártaro e a placa bacteriana acumulados nos dentes."
+    },
+    {
+        "nome": "Lente de Contato",
+        "imagem": "https://odontologiaesaudebh.com.br/wp-content/uploads/2021/05/o-que-sao-facetas-dentais-de-porcelana.jpg",
+        "descricao": "Facetas ultrafinas aplicadas sobre os dentes para melhorar a estética do sorriso."
+    },
+    {
+        "nome": "Restauração",
+        "imagem": "https://lh3.googleusercontent.com/VXbSDJpwubzTioas8I-dmRACxyZztz4b945shChHaS-U-cXEb7vYJR3Elzvg3JPMhRMftfXBH8aK8xEMJWBbL2rF2ZEgzRgmwOobcYrKl69L_gLx2cgf3pQMOLdQDpiUYfutJkGk2CTNh5ovUgpSZA",
+        "descricao": "Tratamento que repara dentes danificados por cáries ou traumas, restaurando sua forma e função."
+    },
+    {
+        "nome": "Extração",
+        "imagem": "https://www.odontologiaintegra.com.br/wp-content/uploads/2019/10/extracao-do-siso.jpg",
+        "descricao": "Remoção de dentes comprometidos, como sisos inclusos ou com infecção."
+    },
+    {
+        "nome": "Cirurgia Gengival",
+        "imagem": "https://saevo.com.br/wp-content/uploads/2022/11/Gengivoplastia-scaled.jpg",
+        "descricao": "Cirurgia estética para remodelar o contorno da gengiva, melhorando o aspecto do sorriso."
+    },
+    {
+        "nome": "Endodontia (Canal)",
+        "imagem": "https://clinicavittavalparaiso.com.br/upload/blog/kIvgz7XpgEusf3YYMWqcKmvJuiZkuxbHwAK36LVs.jpeg",
+        "descricao": "Tratamento que remove a polpa infeccionada do dente e preenche o canal com material obturador."
+    },
+    {
+        "nome": "Periodontia",
+        "imagem": "https://koempferclinica.com.br/wp-content/uploads/2020/08/reflection-in-mirror-of-healthy-smile-of-pretty-young-smiling-female-patient.jpg",
+        "descricao": "Área que trata das doenças da gengiva e dos tecidos de suporte dos dentes."
+    }
+]
