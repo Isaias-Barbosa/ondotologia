@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import procedimentosData from "@/data/procedimentos.json";
 import { Button } from "@/components/ui/button";
