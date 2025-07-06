@@ -49,7 +49,7 @@ const NavbarComponent = () => {
           {/* Login Button */}
           <div className="hidden lg:flex flex-1 justify-end ">
             <Button>
-            <Link to="#" className="text-blue-700 hover:text-blue-900 font-semibold transition">
+            <Link to="/login" className="text-blue-700 hover:text-blue-900 font-semibold transition">
               Login
             </Link>
             </Button>
